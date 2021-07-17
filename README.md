@@ -1,5 +1,4 @@
 # Churn Prediction for Bank Customers
-An End-to-End Data Science Project: Churn Prediction for Bank Customers
 
 * ## About the Project
 
@@ -7,6 +6,8 @@ An End-to-End Data Science Project: Churn Prediction for Bank Customers
 
 ### The Project has been deployed on Heroku Cloud Platform.
 ### The Web App is live at: https://churn-prediction-gaurav.herokuapp.com/
+
+---
 
 * ## A glimpse of the Project
 
