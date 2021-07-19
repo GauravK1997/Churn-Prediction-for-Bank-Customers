@@ -6,7 +6,9 @@
 
 ### The Project has been deployed on 2 Cloud Platforms: Heroku Cloud & Azure cloud
 
-### The Web App is live at: https://churn-prediction-gaurav.herokuapp.com/
+### Heroku Web App: https://churn-prediction-gaurav.herokuapp.com/
+
+### Azure Web App: https://churnpredictionforbanks.azurewebsites.net/
 
 ---
 
